@@ -1,0 +1,6 @@
+requests
+piper-tts
+faster-whisper
+moviepy==1.0.3
+Pillow
+numpy
